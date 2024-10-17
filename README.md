@@ -14,7 +14,7 @@ Lastly, Spotify provides its users with a killer algorithm to reccommend new mus
 
 1. Visit this link on Spotify's website (you will need to be logged in):
 
-https://www.spotify.com/us/account/privacy/
+`https://www.spotify.com/us/account/privacy/`
 
 2. Scroll down to the secton titled: **"Download your data"**, and be sure to check the box next to **"Extended streaming history"** (else some functionality of the package won't work). ***Do not*** check the box next to **"Technical log information"**.
 
